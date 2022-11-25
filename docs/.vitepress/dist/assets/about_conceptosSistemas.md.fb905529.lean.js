@@ -1,0 +1,1 @@
+import{_ as a,c as e,o,a as s}from"./app.7debf912.js";const b=JSON.parse('{"title":"Conceptos de sistemas de control","description":"","frontmatter":{},"headers":[],"relativePath":"about/conceptosSistemas.md"}'),t={name:"about/conceptosSistemas.md"},n=s("",2),i=[n];function r(l,c,d,m,p,u){return o(),e("div",null,i)}const g=a(t,[["render",r]]);export{b as __pageData,g as default};
